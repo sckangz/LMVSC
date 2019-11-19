@@ -1,4 +1,7 @@
-# A Brief Introduction to This Code
+# 
+This package is implementing the method in AAAI 2020 paper: Large-scale Multi-view Subspace Clustering in Linear Time. Please contact Zkang@uestc.edu.cn if you have any questions.
+
+A Brief Introduction to This Code
 -----------------------------------------------------------------------
 This package contains 5 matlab files and a dataset.
 
